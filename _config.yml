@@ -1,0 +1,15 @@
+# Site settings
+title: memoryleak
+author: Viet Nguyen
+email: inbox@dev-forge.ru
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://memoryleak.ru" # the base hostname & protocol for your site
+twitter_username: stereohorse
+github_username: stereohorse
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+timezone: "Europe/Moscow"
